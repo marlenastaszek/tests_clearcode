@@ -1,0 +1,5 @@
+/build/
+/bin/
+/composer.phar
+/vendor
+.idea
