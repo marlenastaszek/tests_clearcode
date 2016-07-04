@@ -24,7 +24,7 @@
             "Clearcode\\": "src",
             "ReaderStub\\": "stubs/Reader",
             "WriterStub\\": "stubs/Writer",
-            "ImporterStub\\": "stubs/importer"
+            "ImporterStub\\": "stubs/Importer"
         }
     }
 }
